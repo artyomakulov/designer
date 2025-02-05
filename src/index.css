@@ -1,0 +1,7 @@
+@import "normalize.css";
+@import "./styles/variables.css";
+
+:root {
+  font-family: var(--font-family);
+  font-weight: var(--font-bold);
+}
